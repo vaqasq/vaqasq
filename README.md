@@ -1,7 +1,9 @@
-### Hi, I'm Vaqas 👋
+### Hi, I'm Vaqas
 
-#### I am an undergraduate student studying computer science and engineering. I've built docker container health monitors, neuron models, and linear algebra libraries.
+Computer Science & Engineering student at the University of Virginia. I like building things close to the metal, daemons, system tools, and backend services.
 
-I have a personal interest in backend and lower level systems, and I'm currently improving my skills in Go and systems fundamentals.
+Current projects include a Docker container health monitor that talks directly to the Docker Engine API over a Unix socket, and a linear algebra library written from scratch in Python.
 
-Check out my website at vaqas.dev
+Primarily working in Go. Interested in backend infrastructure and systems programming.
+
+[vaqas.dev](https://vaqas.dev)
