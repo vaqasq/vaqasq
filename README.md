@@ -3,8 +3,9 @@
 Computer Science & Engineering student at the University of Virginia interested in systems programming.
 
 Languages
+- C
+- C++
 - Go
 - Python
-- C
 
 [vaqas.dev](https://vaqas.dev)
