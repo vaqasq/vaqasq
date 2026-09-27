@@ -1,6 +1,6 @@
 ### Hi, I'm Vaqas
 
-Computer Science & Engineering student at the University of Virginia interested in systems programming.
+I'm an undergraduate studying computer science, broadly interested in systems programming and infrastructure.
 
 Languages
 - C
