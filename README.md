@@ -1,9 +1,10 @@
 ### Hi, I'm Vaqas
 
-I'm an undergraduate studying computer science, broadly interested in systems programming and infrastructure.
+I'm an undergraduate studying computer science, broadly interested in systems programming, backends, and infrastructure.
 
 Languages
 - C
+- C++
 - Go
 - Python
 
