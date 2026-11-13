@@ -4,7 +4,6 @@ I'm an undergraduate studying computer science, broadly interested in systems pr
 
 Languages
 - C
-- C++
 - Go
 - Python
 
