@@ -3,6 +3,7 @@
 I'm an undergraduate studying computer science, broadly interested in systems programming, backends, and infrastructure.
 
 Languages
+- Rust (Currently Learning)
 - C
 - Go
 - Python
